@@ -98,3 +98,12 @@ html,body{overflow-x:clip}
 @media(max-width:850px){.logo-visual{width:min(530px,100%);height:450px;margin:auto}.logo-stage-main{width:min(90%,520px)}}
 @media(max-width:540px){.brand-logo-small{width:38px;height:38px}.logo-visual{width:min(100%,500px);height:315px;margin:18px auto 0}.logo-stage-main{width:min(93%,390px);padding:14px 12px;border-radius:26px}.spark-one{font-size:1.2rem;right:7%;top:11%}.spark-two{font-size:.8rem;left:8%;bottom:16%}}
 @media(prefers-reduced-motion:reduce){.logo-stage-main,.aura-one,.aura-two,.logo-spark,.logo-shine::before{animation:none!important}}
+
+/* V7 — product previews show without decorative golden strips obstructing work. */
+.folder-photo::after,
+.folder-lid,
+.folder-tab {display:none !important;}
+.folder-photo {background:#15120f;}
+.folder-photo img {object-fit:cover;}
+.contact-tiktok svg{display:block;max-width:23px;height:auto;}
+.contact-item strong[dir="ltr"]{overflow-wrap:anywhere;}

@@ -1,5 +1,46 @@
 window.SHEHAB_CATALOG = [
   {
+    "id": "graduation-outfits",
+    "title": "أطقم تخرج",
+    "group": "ملابس",
+    "description": "أطقم تخرج بالطباعة والتطريز.",
+    "images": [
+      {
+        "src": "assets/work/graduation-outfits/01.webp",
+        "thumb": "assets/work/graduation-outfits/01-small.webp",
+        "label": "طقم تخرج تطريز"
+      },
+      {
+        "src": "assets/work/graduation-outfits/02.webp",
+        "thumb": "assets/work/graduation-outfits/02-small.webp",
+        "label": "طقم تخرج طباعة"
+      }
+    ]
+  },
+  {
+    "id": "acrylic-panels",
+    "title": "طابلوهات أكريليك",
+    "group": "لافتات",
+    "description": "طابلوهات ولوحات أكريليك بأشكال مختلفة.",
+    "images": [
+      {
+        "src": "assets/work/acrylic-panels/02.webp",
+        "thumb": "assets/work/acrylic-panels/02-small.webp",
+        "label": "لافتة عيادة أسنان أكريليك لامعة"
+      },
+      {
+        "src": "assets/work/acrylic-panels/03.webp",
+        "thumb": "assets/work/acrylic-panels/03-small.webp",
+        "label": "مدارس القرآن الكريم"
+      },
+      {
+        "src": "assets/work/acrylic-panels/01.webp",
+        "thumb": "assets/work/acrylic-panels/01-small.webp",
+        "label": "لافتة أكاديمية أزهار المستقبل أكلريك لامع"
+      }
+    ]
+  },
+  {
     "id": "packaging",
     "title": "علب أدوية وباكيجنج",
     "group": "باكيجنج",
@@ -146,6 +187,37 @@ window.SHEHAB_CATALOG = [
     ]
   },
   {
+    "id": "embroidered-caps",
+    "title": "كابات تطريز",
+    "group": "ملابس",
+    "description": "كابات بتطريزات وتصميمات دعائية متنوعة.",
+    "images": [
+      {
+        "src": "assets/work/embroidered-caps/01.webp",
+        "thumb": "assets/work/embroidered-caps/01-small.webp",
+        "label": "كابات تطريز — نموذج 01"
+      },
+      {
+        "src": "assets/work/embroidered-caps/02.webp",
+        "thumb": "assets/work/embroidered-caps/02-small.webp",
+        "label": "كابات تطريز — نموذج 02"
+      }
+    ]
+  },
+  {
+    "id": "printed-vests",
+    "title": "طباعة فيستات",
+    "group": "ملابس",
+    "description": "نماذج من طباعة الفيستات الدعائية.",
+    "images": [
+      {
+        "src": "assets/work/printed-vests/01.webp",
+        "thumb": "assets/work/printed-vests/01-small.webp",
+        "label": "فيستات"
+      }
+    ]
+  },
+  {
     "id": "graduation-shirts",
     "title": "تيشرتات تخرج",
     "group": "ملابس",
@@ -208,6 +280,19 @@ window.SHEHAB_CATALOG = [
     ]
   },
   {
+    "id": "banner-printing",
+    "title": "طباعة بنر",
+    "group": "مطبوعات",
+    "description": "نماذج من أعمال طباعة البنر.",
+    "images": [
+      {
+        "src": "assets/work/banner-printing/01.webp",
+        "thumb": "assets/work/banner-printing/01-small.webp",
+        "label": "بنر"
+      }
+    ]
+  },
+  {
     "id": "feather-flags",
     "title": "أعلام ريشة",
     "group": "أعلام",
@@ -258,6 +343,19 @@ window.SHEHAB_CATALOG = [
         "src": "assets/work/desk-stand/01.webp",
         "thumb": "assets/work/desk-stand/01-small.webp",
         "label": "استاند مكتب مستورد — نموذج 01"
+      }
+    ]
+  },
+  {
+    "id": "coated-paper-packaging",
+    "title": "ورق كوشيه تغليف منتجات",
+    "group": "باكيجنج",
+    "description": "نماذج من تغليف المنتجات بورق الكوشيه.",
+    "images": [
+      {
+        "src": "assets/work/coated-paper-packaging/01.webp",
+        "thumb": "assets/work/coated-paper-packaging/01-small.webp",
+        "label": "ورق كوشيه تغليف منتجات — نموذج 01"
       }
     ]
   }
